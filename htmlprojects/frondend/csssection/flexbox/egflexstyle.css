@@ -1,0 +1,40 @@
+header{
+    background-color:lightslategray;
+    height: 50px;
+    
+    
+}
+ul li{
+    display: inline-block;
+    margin: 20px;
+   
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+a:hover{
+    background-color: rgba(255,255,255.3);
+}
+.row{
+    width: 95%;
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.col{
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: justify;
+}
+.col img{
+    width: 100%;
+    height: 400px;
+
+}
+.col h1{
+    text-align: center;
+}

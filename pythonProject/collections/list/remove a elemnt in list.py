@@ -1,0 +1,3 @@
+#remove
+#pop
+#delete

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.movie{
+    text-align: center;
+    color: white;
+    background-color: royalblue;
+    width: 30%;
+    
+    border: 1px solid red;
+    float: left;
+
+}
+movie.section1{
+
+}
+/* pesticide */

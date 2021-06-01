@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+body{
+    background: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+}
+.box1{
+    height: 170px;
+    width: 800px;
+    margin-left: 350px;
+}
+.row1{
+    width:115px ;
+    height:150px ;
+    float: left;
+    margin: 5px; 
+}
+
+.one{
+    background-color:#03071e;
+}
+.two{
+background-color:#370617 ;
+}
+.three{
+
+    background-color:#6a040f;
+}
+.four{
+    background-color:#9d0208 ;
+}
+.five{
+
+    background-color:#d00000; 
+}
+.box2{
+    height: 170px;
+    width: 800px;
+    margin-left: 350px;
+
+
+}
+.row2{
+
+    width:115px ;
+    height:150px ;
+    float: left;
+    margin: 5px; 
+
+}
+.six{
+    background-color:#dc2f02;
+}
+.seven{
+    background-color: #e85d04;
+}
+.eight{
+    background-color:#f48c06 ;
+}
+.nine{
+background-color: #f72585;
+}
+.ten{
+background-color: #b5179e;
+
+}
+.eleven{
+background-color: #7209b7;
+}
+.twelve{
+background-color: #3a0ca3;
+}
+.box3{
+
+    height: 170px;
+    width: 800px;
+    margin-left: 350px;    
+}
+.row3{
+    width:115px ;
+    height:150px ;
+    float: left;
+    margin: 5px;  
+}
+.thirteen{
+background-color: #004b23;
+}
+.fourteen{
+background-color: #006400;
+}
+.fifteen{
+background-color: #90a955;
+}
+.sixteen{
+background-color: #007f5f;
+}
+.seventeen{
+background-color: #691e06;
+}
+.eighteen{
+background-color: #333533;
+}
+.nineteen{
+    background-color: #202020;
+
+}
+.twenty{
+    background-color: #6c3436;
+
+}
+.twentyone{
+background-color: #5c8001;
+}

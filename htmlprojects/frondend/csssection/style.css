@@ -1,0 +1,17 @@
+h1{
+ text-align: center;
+ color: blue;
+ text-decoration: underline;
+}
+
+
+#hone{
+    text-align: right;
+    color: rgb(255, 208, 0);
+}
+.custom{
+text-decoration: overline;
+color: navy;
+}
+
+

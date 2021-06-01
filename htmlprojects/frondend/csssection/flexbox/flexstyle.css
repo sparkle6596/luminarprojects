@@ -1,0 +1,33 @@
+.row{
+width: 100%;
+border: 2px solid yellow;
+display: flex;
+background-color: rgb(205, 86, 50);
+height: 500px;
+align-items: center;
+justify-content: space-evenly;
+
+}
+.col{
+
+  width: 30%;
+  height: 200px;  
+}
+.col1{
+
+    background-color: tomato;
+    border: 1px solid black;
+}
+.col2{
+
+    background-color: brown;
+    border: 1px solid black;
+
+}
+.col3{
+
+    background-color:teal;
+    border: 1px solid black;
+    
+    
+}
